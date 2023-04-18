@@ -17,3 +17,11 @@
         }
     }
 }
+
+.nav_list_item_active:hover {
+    transform: scale(1.1);
+}
+
+.nav_list_item:hover {
+    transform: scale(1.1);
+}
