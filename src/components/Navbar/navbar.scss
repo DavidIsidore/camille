@@ -1,0 +1,15 @@
+@import '../../sass/main.scss';
+
+.nav {
+    &_list {
+        list-style: none;
+        @include flex(row, center, center);
+        gap: 50px;
+        &_item {
+            text-decoration: none;
+            &_active {
+                text-decoration: underline solid 1px;
+            }
+        }
+    }
+}
