@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom'
 import './navbar.scss'
 
 export default function Navbar() {
-    const location = useLocation
+    const location = useLocation()
     return (
         <nav className="nav">
             <ul className="nav_list">
