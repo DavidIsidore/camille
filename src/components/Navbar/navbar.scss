@@ -7,8 +7,10 @@
         gap: 50px;
         &_item {
             text-decoration: none;
+            color: black;
             &_active {
-                text-decoration: underline solid 1px;
+                text-decoration: underline solid 1px black;
+                color: black;
             }
         }
     }
