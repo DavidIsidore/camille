@@ -7,8 +7,6 @@ export default function Home() {
         <div>
             <Header />
             <Navbar />
-            <h1>Accueil</h1>
-            <p>Composants</p>
         </div>
     )
 }

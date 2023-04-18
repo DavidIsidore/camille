@@ -7,8 +7,6 @@ export default function Contact() {
         <div>
             <Header />
             <Navbar />
-            <h1>Contact</h1>
-            <p>Composants</p>
         </div>
     )
 }

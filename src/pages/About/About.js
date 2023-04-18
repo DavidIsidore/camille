@@ -7,8 +7,6 @@ export default function About() {
         <div>
             <Header />
             <Navbar />
-            <h1>À propos</h1>
-            <p>Composants</p>
         </div>
     )
 }
